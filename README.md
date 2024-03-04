@@ -2,6 +2,9 @@
 [2]: https://raw.githubusercontent.com/RichardKnop/assets/master/machinery/example_worker_receives_tasks.png
 [3]: http://patreon_public_assets.s3.amazonaws.com/sized/becomeAPatronBanner.png
 
+## from https://github.com/RichardKnop/machinery
+remove v2
+
 ## Machinery
 
 Machinery is an asynchronous task queue/job queue based on distributed message passing.
